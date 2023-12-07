@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfTeacher>
+  <Teacher>
+    <Degree>Professor</Degree>
+    <TaughtSubjects>
+      <Subjects>
+        <Teacher>Mark Bezos</Teacher>
+        <Subject>Basic of Algorithms</Subject>
+        <ECTS>4</ECTS>
+        <StudentClassCount>23</StudentClassCount>
+        <ExameType>Project</ExameType>
+        <StudyForm>Laboratories</StudyForm>
+        <CreditHours>32</CreditHours>
+      </Subjects>
+      <Subjects>
+        <Teacher>Mark Bezos</Teacher>
+        <Subject>Intoducment to DataBases</Subject>
+        <ECTS>2</ECTS>
+        <StudentClassCount>80</StudentClassCount>
+        <ExameType>Exam</ExameType>
+        <StudyForm>Lecture</StudyForm>
+        <CreditHours>28</CreditHours>
+      </Subjects>
+      <Subjects>
+        <Teacher>Mark Bezos</Teacher>
+        <Subject>Programing in C#</Subject>
+        <ECTS>6</ECTS>
+        <StudentClassCount>20</StudentClassCount>
+        <ExameType>Project</ExameType>
+        <StudyForm>Laboratories</StudyForm>
+        <CreditHours>32</CreditHours>
+      </Subjects>
+    </TaughtSubjects>
+    <FirstName>Mark</FirstName>
+    <LastName>Bezos</LastName>
+    <AdressEmail>Bezos1213@gmail.com</AdressEmail>
+    <Password>mbezos</Password>
+    <Gender>male</Gender>
+    <DateOfBirth>1967-08-28</DateOfBirth>
+  </Teacher>
+  <Teacher>
+    <Degree>Professor</Degree>
+    <TaughtSubjects>
+      <Subjects>
+        <Teacher>Daniel Carlson</Teacher>
+        <Subject>Economics</Subject>
+        <ECTS>4</ECTS>
+        <StudentClassCount>56</StudentClassCount>
+        <ExameType>Exam</ExameType>
+        <StudyForm>Lecture</StudyForm>
+        <CreditHours>32</CreditHours>
+      </Subjects>
+      <Subjects>
+        <Teacher>Daniel Carlson</Teacher>
+        <Subject>Micro Ecomonics</Subject>
+        <ECTS>2</ECTS>
+        <StudentClassCount>80</StudentClassCount>
+        <ExameType>Exam</ExameType>
+        <StudyForm>Lecture</StudyForm>
+        <CreditHours>28</CreditHours>
+      </Subjects>
+      <Subjects>
+        <Teacher>Daniel Carlson</Teacher>
+        <Subject>Macro Economics</Subject>
+        <ECTS>2</ECTS>
+        <StudentClassCount>86</StudentClassCount>
+        <ExameType>Exam</ExameType>
+        <StudyForm>Lecture</StudyForm>
+        <CreditHours>32</CreditHours>
+      </Subjects>
+    </TaughtSubjects>
+    <FirstName>Daniel</FirstName>
+    <LastName>Carlson</LastName>
+    <AdressEmail>Carlson1213@gmail.com</AdressEmail>
+    <Password>dcarlson</Password>
+    <Gender>male</Gender>
+    <DateOfBirth>1963-03-12</DateOfBirth>
+  </Teacher>
+</ArrayOfTeacher>
